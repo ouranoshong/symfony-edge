@@ -6,4 +6,6 @@
 /vendor/
 /.ppm/
 /.idea/
+/logs/.gitkeep
+/logs/
 ###< symfony/framework-bundle ###
